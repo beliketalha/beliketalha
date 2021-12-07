@@ -37,7 +37,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 ## Let's Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/-beliketalha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beliketalha/)](https://www.linkedin.com/in/beliketalha/)   [![Facebook Badge](https://img.shields.io/badge/-beliketalha-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/beliketalha)](https://facebook.com/beliketalha)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325@gmail.com)](mailto:talhakhan325@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beliketalha/)](https://www.linkedin.com/in/muhtalhakhan/)   [![Facebook Badge](https://img.shields.io/badge/-beliketalha-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/beliketalha)](https://facebook.com/beliketalha)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325@gmail.com)](mailto:talhakhan325@gmail.com)
 
 <br><br>
 ⭐ From [Talha Khan](https://github.com/muhtalhakhan)
