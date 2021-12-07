@@ -33,7 +33,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 - ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
 
-[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=beliketalha)](https://github.com/beliketalha/github-readme-stats)
+[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=muhtalhakhan)](https://github.com/muhtalhakhan/github-readme-stats)
 
 ## Let's Connect -
 
