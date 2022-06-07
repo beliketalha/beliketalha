@@ -1,6 +1,6 @@
-<!-- ![](https://github.com/mustafaali96/mustafaali96/blob/master/Assests/cover_intro.gif)  -->
 
-### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Earth.gif" width="24px"> 
+
+###<img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
 I am **Muhammad Talha Khan** becoming a *Data Engineer*. Doing my Bachelors in Computers Science from <a href="https://iqra.edu.pk/" formtarget="_blank"> <b>Iqra University.</b></a>
