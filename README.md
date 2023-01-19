@@ -7,7 +7,7 @@ I am **Muhammad Talha Khan** becoming a *Data Engineer*. Doing my Bachelors in C
 
 ## About Me
 
-A Researcher & Programmer! Learning AI (Artificial Intelligence), Machine Learning, and Deep Learning to become Data Scientist. I'm Certified <a href="https://www.coursera.org/account/accomplishments/verify/2PMUNSZEDKKV" target="_blank"> <b>Python Developer</b> </a>,<a href="https://www.coursera.org/account/accomplishments/verify/AD9KVUHQSMSP" target="_blank"> <b>Basics of Data Science</b> </a>,<a href="https://www.coursera.org/account/accomplishments/verify/RYLK26HA3K8P" target="_blank"> <b>Technical Support Fundamentals
+Computer Scientist to-be, Researcher & Programmer! Learning AI (Artificial Intelligence), Machine Learning, and Deep Learning to become Data Scientist. I'm Certified <a href="https://www.coursera.org/account/accomplishments/verify/2PMUNSZEDKKV" target="_blank"> <b>Python Developer</b> </a>,<a href="https://www.coursera.org/account/accomplishments/verify/AD9KVUHQSMSP" target="_blank"> <b>Basics of Data Science</b> </a>,<a href="https://www.coursera.org/account/accomplishments/verify/RYLK26HA3K8P" target="_blank"> <b>Technical Support Fundamentals
 </b> </a> & <a href="https://www.coursera.org/account/accomplishments/verify/HYX3TZPGL58T" target="_blank"><b>The Bits and Bytes of Computer Networking</b> </a>
 
 <!-- As a Learner of Artificial Intelligence, Machine Learning, and Deep Learning trying to 
@@ -17,7 +17,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 - 💻 I’m currently a Data Engineer.
 
-- 🌱 I'm currently learning Deep Learning, Computer Vision, NLP.
+- 🌱 I'm currently learning Computer Vision, Deep Learning, and NLP.
 
 - 🔭 I’m looking to collaborate on **OpenSourced** projects on **ML/DL**
 
