@@ -39,11 +39,11 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 - ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
 
-[![Talha's github stats](https://github-readme-stats.vercel.app/api?username=muhtalhakhan)](https://github.com/muhtalhakhan/github-readme-stats)
+ <!-- [![Talha's github stats](https://github-readme-stats.vercel.app/api?username=muhtalhakhan)](https://github.com/muhtalhakhan/github-readme-stats) -->
 
 ## Let's Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalhakhan/)](https://www.linkedin.com/in/muhtalhakhan/)   [![Facebook Badge](https://img.shields.io/badge/-muhtalhakhan-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/muhtalhakhan)](https://facebook.com/muhtalhakhan)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325@gmail.com)](mailto:talhakhan325@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalhakhan/)](https://www.linkedin.com/in/muhtalhakhan/)   [![Facebook Badge](https://img.shields.io/badge/-muhtalhakhan-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/muhtalhakhan)](https://facebook.com/muhtalhakhan)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325@gmail.com)](mailto:talhakhan325.work@gmail.com)
 
 <br><br>
 ⭐ From [Talha Khan](https://github.com/muhtalhakhan)
