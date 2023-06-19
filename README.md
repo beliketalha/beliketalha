@@ -43,7 +43,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 ## Let's Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalhakhan/)](https://www.linkedin.com/in/muhtalhakhan/)   [![Facebook Badge](https://img.shields.io/badge/-muhtalhakhan-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/muhtalhakhan)](https://facebook.com/muhtalhakhan)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325.work@gmail.com)](mailto:talhakhan325.work@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Talha-Khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalhakhan/)](https://www.linkedin.com/in/muhtalhakhan/)   [![Facebook Badge](https://img.shields.io/badge/-Talha-Facebook-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/muhtalhakhan)](https://facebook.com/muhtalhakhan)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325.work@gmail.com)](mailto:talhakhan325.work@gmail.com)
 
 <br><br>
 ⭐ From [Talha Khan](https://github.com/muhtalhakhan)
