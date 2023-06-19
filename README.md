@@ -3,7 +3,13 @@
 ### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
-I am **Muhammad Talha Khan** becoming a *Data Engineer*. Doing my Bachelors in Computers Science from <a href="https://iqra.edu.pk/" formtarget="_blank"> <b>Iqra University.</b></a>
+Being a Data Engineer and Computer Scientist. I had completed several certifications including The Data Engineering which made me learn a lot about SQL, Python, and the tools the data engineer use to fit in the environment.
+
+I am open to entry and intermediate roles regarding Data Engineering or SQL Engineer which eventually would help me to escalate and learn more about the real world. I have made some university projects using Java, C, C++, and some Web forms using JavaScript. My template of self-learning chat-bot has been published over Naas.AI.
+
+Furthermore, I wrote some blogs on medium as well as on my blogging website (mohammadtalhakhan.blogspot.com) which were about technology and mainly focused on Artificial Intelligence and Machine Learning.
+
+I am a person who likes to be fit and healthy for that I used to play cricket, football and sometimes go to gym A while I also play Valorant as an esports player not the professional one.
 
 ## About Me
 
@@ -27,7 +33,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 - 💬 Ask me anything about **Aritificial Intelligence and Python**.
 
-- 📫 reach me talhakhan325@gmail.com
+- 📫 reach me talhakhan325.work@gmail.com
 
 - 😄 Pronouns: **Problem Solver**, **Leader** and **Creative**
 
