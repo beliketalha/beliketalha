@@ -44,7 +44,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 ## Let's Connect -
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalhakhan/)](https://www.linkedin.com/in/muhtalhakhan/)   
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/muhtalhakhan)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/muhtalhakhan.svg?style=social&label=Follow%20%40Talha)](https://twitter.com/muhtalhakhan)
 [![Twitter Badge](https://img.shields.io/badge/-muhtalhakhan-03a57a?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/muhtalhakhan)](https://twitter.com/muhtalhakhan)   [![Gmail Badge](https://img.shields.io/badge/-talhakhan325.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325.work@gmail.com)](mailto:talhakhan325.work@gmail.com)
 
 <br><br>
