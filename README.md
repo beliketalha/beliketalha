@@ -1,52 +1,31 @@
 [![An image of @muhtalhakhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhtalhakhan)](https://holopin.io/@muhtalhakhan)
 
 ### <img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/beliketalha/beliketalha/blob/main/Assets/Earth.gif" width="24px"> 
+
 ✨ Welcome to my **Special** repository ✨
 
-Being a Data Engineer and Computer Scientist. I had completed several certifications including The Data Engineering which made me learn a lot about SQL, Python, and the tools the data engineer use to fit in the environment.
+# 💫 About Me:
+Being a Data Engineer and Computer Scientist. I had completed several certifications including The Data Engineering which made me learn a lot about SQL, Python, and the tools the data engineer use to fit in the environment.<br><br>I am open to entry and intermediate roles regarding Data Engineering or SQL Engineer which eventually would help me to escalate and learn more about the real world. I have made some university projects using Java, C, C++, and some Web forms using JavaScript. My template of self-learning chat-bot has been published over Naas.AI.<br><br>Furthermore, I wrote some blogs on medium as well as on my blogging website (mohammadtalhakhan.blogspot.com) which were about technology and mainly focused on Artificial Intelligence and Machine Learning.<br><br>I am a person who likes to be fit and healthy for that I used to play cricket, football and sometimes go to gym A while I also play Valorant as an esports player not the professional one.<br><br>- 🕷️ My nickname and psuedo name is Spidey<br><br>- 💻 I’m currently a Data Engineer.<br><br>- 🌱 I'm currently learning Computer Vision, Deep Learning, and NLP.<br><br>- 🔭 I’m looking to collaborate on **OpenSourced** projects on **ML/DL**<br><br>- 👯 I'm looking to collaborate on social impact projects too.<br><br>- 🤔 I’m looking for helping people who are starting in ML/Data Science.<br><br>- 💬 Ask me anything about **Aritificial Intelligence and Python**.<br><br>- 📫 reach me talhakhan325.work@gmail.com<br><br>- 😄 Pronouns: **Problem Solver**, **Leader** and **Creative**<br><br>- ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
 
-I am open to entry and intermediate roles regarding Data Engineering or SQL Engineer which eventually would help me to escalate and learn more about the real world. I have made some university projects using Java, C, C++, and some Web forms using JavaScript. My template of self-learning chat-bot has been published over Naas.AI.
 
-Furthermore, I wrote some blogs on medium as well as on my blogging website (mohammadtalhakhan.blogspot.com) which were about technology and mainly focused on Artificial Intelligence and Machine Learning.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhtalhakhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhtalhakhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhtalhakhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hitalhahere) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13974822) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/HiTalhaHere) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muhtalhakhan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhtalhakhan) 
 
-I am a person who likes to be fit and healthy for that I used to play cricket, football and sometimes go to gym A while I also play Valorant as an esports player not the professional one.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhtalhakhan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhtalhakhan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhtalhakhan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Computer Scientist to-be, Researcher & Programmer! Learning AI (Artificial Intelligence), Machine Learning, and Deep Learning to become Data Scientist. I'm Certified <a href="https://www.coursera.org/account/accomplishments/verify/2PMUNSZEDKKV" target="_blank"> <b>Python Developer</b> </a>,<a href="https://www.coursera.org/account/accomplishments/verify/AD9KVUHQSMSP" target="_blank"> <b>Basics of Data Science</b> </a>,<a href="https://www.coursera.org/account/accomplishments/verify/RYLK26HA3K8P" target="_blank"> <b>Technical Support Fundamentals
-</b> </a> & <a href="https://www.coursera.org/account/accomplishments/verify/HYX3TZPGL58T" target="_blank"><b>The Bits and Bytes of Computer Networking</b> </a>
+---
+[![](https://visitcount.itsvg.in/api?id=muhtalhakhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- As a Learner of Artificial Intelligence, Machine Learning, and Deep Learning trying to 
-Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <b>Portfolio</b></a> -->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhtalhakhan) 
 
-- 🕷️ My nickname and psuedo name is Spidey
-
-- 💻 I’m currently a Data Engineer.
-
-- 🌱 I'm currently learning Computer Vision, Deep Learning, and NLP.
-
-- 🔭 I’m looking to collaborate on **OpenSourced** projects on **ML/DL**
-
-- 👯 I'm looking to collaborate on social impact projects too.
-
-- 🤔 I’m looking for helping people who are starting in ML/Data Science.
-
-- 💬 Ask me anything about **Aritificial Intelligence and Python**.
-
-- 📫 reach me talhakhan325.work@gmail.com
-
-- 😄 Pronouns: **Problem Solver**, **Leader** and **Creative**
-
-- ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
-
- <!-- [![Talha's github stats](https://github-readme-stats.vercel.app/api?username=muhtalhakhan)](https://github.com/muhtalhakhan/github-readme-stats) -->
-
-## Let's Connect -
-
-[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhtalhakhan/&label=Add%20%40Talha)](https://www.linkedin.com/in/muhtalhakhan/)   
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/muhtalhakhan.svg?style=social&label=Follow%20%40Talha)](https://twitter.com/muhtalhakhan)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-muhtalhakhan-03a57a?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/muhtalhakhan)](https://twitter.com/muhtalhakhan) -->
-[![Gmail Badge](https://img.shields.io/badge/-talhakhan325.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talhakhan325.work@gmail.com)](mailto:talhakhan325.work@gmail.com)
-
-<br><br>
-⭐ From [Talha Khan](https://github.com/muhtalhakhan)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
